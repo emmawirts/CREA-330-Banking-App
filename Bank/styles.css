@@ -14,8 +14,8 @@ body {
   
   header {
     text-align: center;
-    margin-bottom: 30px;
-    padding-top: 40px; /* Increased padding at the top to give more space */
+    margin-bottom: 5px;
+    padding-top: 158px; /* Increased padding at the top to give more space */
   }
   
   #mascot {
@@ -27,7 +27,7 @@ body {
   
   h1 {
     color: #F2A900; /* Golden yellow text */
-    margin-top: 20px; /* Added margin to give some space between the image and the title */
+    margin-top: 5px; /* Added margin to give some space between the image and the title */
   }
   
   h2 {
