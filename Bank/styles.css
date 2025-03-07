@@ -15,11 +15,11 @@ body {
   header {
     text-align: center;
     margin-bottom: 30px;
-    padding-top: 20px; /* Ensure space at the top */
+    padding-top: 40px; /* Increased padding at the top to give more space */
   }
   
   #mascot {
-    width: 120px;
+    width: 150px; /* Increased width for a larger image */
     height: auto;
     margin-bottom: 20px;
     max-width: 100%; /* Ensure the image fits within the container */
@@ -27,6 +27,7 @@ body {
   
   h1 {
     color: #F2A900; /* Golden yellow text */
+    margin-top: 20px; /* Added margin to give some space between the image and the title */
   }
   
   h2 {
@@ -94,7 +95,7 @@ body {
     }
   
     #mascot {
-      width: 100px;
+      width: 120px; /* Slightly smaller mascot on smaller screens */
     }
   }
   
